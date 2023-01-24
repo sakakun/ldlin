@@ -1,4 +1,4 @@
-# ldlin
+# LDLin
 A simple script to the alternative to LDWin (for Linux)
 
 ## Implementation
